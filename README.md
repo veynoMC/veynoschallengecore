@@ -13,7 +13,7 @@ THis PLugin is required for all my challange plugins, it will provide essential 
 
 ## Installation
 
-1. Download the latest jar from the [Releases](https://github.com/veynomc/veynoschallengecore/releases) section
+1. Download the latest jar from the [Releases](https://github.com/veynoMC/veynoschallengecore/releases) section
 2. place the file in the `/plugins/` folder of your server
 4. restart the Server or load the plugin
 
