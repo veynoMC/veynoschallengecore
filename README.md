@@ -1,4 +1,4 @@
-# VeynosChallengeCOre
+# VeynosChallengeCore
 
 THis PLugin is required for all my challange plugins, it will provide essential features like starting, pausing and timer.
 
