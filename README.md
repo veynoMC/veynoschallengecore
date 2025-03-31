@@ -37,4 +37,4 @@ comming_soon: true
 
 ## License
 
-You are free to use my Plugin for your personal use as long as you dont claim it as your work, redestribute it or attempt to commercialise of it  - view the [LICENSE](LICENSE) file for mor details.
+You are free to use my plugin for personal use as long as you do not claim it as your own, redistribute it, or attempt to commercialize it. View the [LICENSE](LICENSE) file for mor details.
