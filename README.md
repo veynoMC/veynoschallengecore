@@ -1,6 +1,6 @@
 # VeynosChallengeCore
 
-THis PLugin is required for all my challange plugins, it will provide essential features like starting, pausing and timer.
+This PLugin is required for all my challange plugins, it will provide essential features like starting, pausing and timer.
 
 ![Version](https://img.shields.io/github/v/release/veynomc/veynoschallengecore)
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.4-brightgreen)
