@@ -23,8 +23,18 @@ THis PLugin is required for all my challange plugins, it will provide essential 
 comming_soon: true
 ```
 
-```Maven
-<comming-soon> </comming-soon>
+```
+<dependency>
+    <groupId></groupId>
+    <artifactId></artifactId>
+    <version></version>
+</dependency>
+```
+```
+<repository>
+    <id></id>
+    <url></url>
+</repository>
 ```
 
 ## Commands
