@@ -1,0 +1,10 @@
+name: VeynosChallangeCore
+version: '1.0'
+main: eu.veyno.veynosChallangeCore.VeynosChallengeCore
+api-version: '1.21'
+commands:
+  start:
+    description: starts the challange
+    usage: /start
+
+
