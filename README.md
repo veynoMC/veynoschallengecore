@@ -23,14 +23,14 @@ THis PLugin is required for all my challange plugins, it will provide essential 
 comming_soon: true
 ```
 
-```
+```xml
 <dependency>
     <groupId></groupId>
     <artifactId></artifactId>
     <version></version>
 </dependency>
 ```
-```
+```xml
 <repository>
     <id></id>
     <url></url>
