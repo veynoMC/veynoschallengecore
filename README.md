@@ -23,6 +23,10 @@ THis PLugin is required for all my challange plugins, it will provide essential 
 comming_soon: true
 ```
 
+```Maven
+<comming-soon> </comming-soon>
+```
+
 ## Commands
 
 | Command | Description | Permission |
