@@ -22,7 +22,7 @@ THis PLugin is required for all my challange plugins, it will provide essential 
 ```yaml
 comming_soon: true
 ```
-
+# Usage
 ```xml
 <dependency>
     <groupId></groupId>
